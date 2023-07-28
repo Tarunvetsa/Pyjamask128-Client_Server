@@ -1,8 +1,6 @@
 # Pyjamask128-Client_Server
 Encryption of plain text, decryption of cypher text using Client-Server Application
 
-Encryption of plain text, decryption of cypher text using Client-Server Application
-
 The working of Pyjamask-128 encryption and decryption process are detailly mentioned in the pdf
 
 The server.py code contains the encryption and decryption code of Pyjamask-128
